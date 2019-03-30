@@ -1,0 +1,4 @@
+Pattern	Description
+[0-9]+\.	Remove line numbers
+\.$	Remove fully stops
+-[0-9]+	Remove test case id's
